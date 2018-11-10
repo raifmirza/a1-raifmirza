@@ -18,6 +18,11 @@ table, th, td {
     margin-right: auto;
     width: 50%;
 }
+.q{
+  text-align: center;
+  font-size: :30px;
+  margin: auto;
+}
 h2  {
   text-align: center;
   margin-top :25px;
